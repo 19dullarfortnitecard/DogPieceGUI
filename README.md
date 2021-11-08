@@ -1,2 +1,2 @@
-# DogPieceGUI
-Exploit GUI for a game called Dog Piece on roblox.
+# Loadstring:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/19dullarfortnitecard/DogPieceGUI/main/main.lua"))()
