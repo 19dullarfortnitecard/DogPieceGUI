@@ -1,4 +1,4 @@
-# OUTDATED:
+# Important:
 Some stuff will not work since I do not longer work on this Project and the game will patch/update stuff.
 
 # Loadstring:
